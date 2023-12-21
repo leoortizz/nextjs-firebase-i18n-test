@@ -1,0 +1,11 @@
+curl https://fb-tools-dev--nextjsi18n-14-xk3r5fet.web.app
+curl https://fb-tools-dev--nextjsi18n-13-4-ambz4knl.web.app
+curl https://nextjs-6415.vercel.app
+
+curl https://fb-tools-dev--nextjsi18n-14-xk3r5fet.web.app -H "accept-language: es"
+curl https://fb-tools-dev--nextjsi18n-13-4-ambz4knl.web.app -H "accept-language: es"
+curl https://nextjs-6415.vercel.app -H "accept-language: es"
+
+curl https://fb-tools-dev--nextjsi18n-14-xk3r5fet.web.app -H "accept-language: en"
+curl https://fb-tools-dev--nextjsi18n-13-4-ambz4knl.web.app -H "accept-language: en"
+curl https://nextjs-6415.vercel.app -H "accept-language: en"
